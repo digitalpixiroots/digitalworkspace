@@ -1,2 +1,19 @@
+DESKTOP/ MOBILE/ WEB
+
 KEY: Wrting
 Refs: Google Docs, Microsoft Word
+
+Saving, Open, Export
+Diagram
+scheduler
+calender
+Solo/ Team
+Reminder/ AI
+Chat
+Video
+Audio
+Calling
+VR
+Design/ Prototyping
+Backup/ Loader
+Text Editor
